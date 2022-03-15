@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-dbutils-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/1电商基础架构/com.rls.learn/lib/commons-dbutils-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
