@@ -1,4 +1,4 @@
-package main.java.com.rls.base06;
+package com.rls.base06;
 
 /*
  * 成员变量和局部变量的区别：

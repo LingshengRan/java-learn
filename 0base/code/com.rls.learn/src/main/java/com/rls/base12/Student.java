@@ -1,4 +1,4 @@
-package main.java.com.rls.base12;
+package com.rls.base12;
 
 public class Student {
     private String name;

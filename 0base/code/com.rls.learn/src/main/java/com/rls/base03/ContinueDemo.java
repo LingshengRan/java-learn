@@ -1,4 +1,4 @@
-package main.java.com.rls.base03;
+package com.rls.base03;
 /*
  * continue:继续的意思
  *

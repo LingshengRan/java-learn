@@ -1,4 +1,4 @@
-package main.java.com.rls.base14;
+package com.rls.base14;
 
 
 import java.io.*;

@@ -1,4 +1,4 @@
-package main.java.com.rls.base09;
+package com.rls.base09;
 import java.util.Scanner;
 
 /*

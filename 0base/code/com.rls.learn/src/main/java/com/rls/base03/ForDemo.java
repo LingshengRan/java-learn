@@ -1,4 +1,4 @@
-package main.java.com.rls.base03;
+package com.rls.base03;
 
 /*
  * for循环语句的格式：

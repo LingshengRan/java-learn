@@ -1,4 +1,4 @@
-package main.java.com.rls.base01;
+package com.rls.base01;
 /*
  * 数据类型：Java是一种强类型语言，针对每一个数据都给出了明确的数据类型。
  *

@@ -1,4 +1,4 @@
-package main.java.com.rls.base01;
+package com.rls.base01;
 /*
  * 变量的定义格式：
  * 		数据类型 变量名 = 初始化值;

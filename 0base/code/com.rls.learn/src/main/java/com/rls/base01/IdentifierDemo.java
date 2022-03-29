@@ -1,4 +1,4 @@
-package main.java.com.rls.base01;
+package com.rls.base01;
 
 /*
  * 内容辅助键：alt+/

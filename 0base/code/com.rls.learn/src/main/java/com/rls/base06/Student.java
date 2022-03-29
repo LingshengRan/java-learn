@@ -1,4 +1,4 @@
-package main.java.com.rls.base06;
+package com.rls.base06;
 
 /*
  * 构造方法：用于给对象的数据进行初始化

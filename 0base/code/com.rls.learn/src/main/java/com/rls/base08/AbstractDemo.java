@@ -1,4 +1,4 @@
-package main.java.com.rls.base08;
+package com.rls.base08;
 /*
  * 抽象类的成员特点：
  * 		成员变量：

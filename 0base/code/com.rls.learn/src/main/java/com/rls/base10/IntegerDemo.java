@@ -1,4 +1,4 @@
-package main.java.com.rls.base10;
+package com.rls.base10;
 
 /*
  * 需求：我要判断一个数据是否在int范围内?

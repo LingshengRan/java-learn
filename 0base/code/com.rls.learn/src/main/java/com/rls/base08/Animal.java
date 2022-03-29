@@ -1,4 +1,4 @@
-package main.java.com.rls.base08;
+package com.rls.base08;
 //抽象类
 public abstract class Animal {
 	//抽象方法

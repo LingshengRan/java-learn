@@ -1,4 +1,4 @@
-package main.java.com.rls.base11;
+package com.rls.base11;
 /*
  * 增强for：是for循环的一种
  *

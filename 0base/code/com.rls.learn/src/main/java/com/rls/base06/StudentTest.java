@@ -1,4 +1,4 @@
-package main.java.com.rls.base06;
+package com.rls.base06;
 
 /*
  * 测试类

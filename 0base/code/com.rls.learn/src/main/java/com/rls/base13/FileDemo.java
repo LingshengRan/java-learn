@@ -1,4 +1,4 @@
-package main.java.com.rls.base13;
+package com.rls.base13;
 
 import java.io.File;
 import java.io.IOException;

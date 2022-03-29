@@ -1,4 +1,4 @@
-package main.java.com.rls.base07;
+package com.rls.base07;
 
 public class Cat extends Animal {
 	public void eat() {

@@ -1,4 +1,4 @@
-package main.java.com.rls.base07;
+package com.rls.base07;
 
 /*
  * 多态：同一个对象，在不同时刻体现出来的不同状态。

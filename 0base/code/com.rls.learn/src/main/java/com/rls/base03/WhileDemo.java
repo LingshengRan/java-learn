@@ -1,4 +1,4 @@
-package main.java.com.rls.base03;
+package com.rls.base03;
 /*
  * while循环的语句格式：
  * 		while(判断条件语句) {

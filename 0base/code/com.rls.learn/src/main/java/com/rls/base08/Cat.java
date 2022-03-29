@@ -1,4 +1,4 @@
-package main.java.com.rls.base08;
+package com.rls.base08;
 /*
  * 非静态的成员方法：
  * 		能访问静态的成员变量

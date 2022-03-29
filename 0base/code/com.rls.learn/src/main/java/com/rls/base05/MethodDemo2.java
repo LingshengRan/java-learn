@@ -1,4 +1,4 @@
-package main.java.com.rls.base05;
+package com.rls.base05;
 /*
  * 方法重载：在同一个类中，出现了方法名相同的情况。
  *

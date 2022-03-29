@@ -1,4 +1,4 @@
-package main.java.com.rls.base13;
+package com.rls.base13;
 
 /*
  * 异常：就是程序出现了不正常的情况。

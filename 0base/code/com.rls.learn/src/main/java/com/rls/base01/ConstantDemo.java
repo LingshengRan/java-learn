@@ -1,4 +1,4 @@
-package main.java.com.rls.base01;
+package com.rls.base01;
 /*
  * 常量：在程序执行过程中，其值不可以发生改变的量。
  *

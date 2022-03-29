@@ -1,4 +1,4 @@
-package main.java.com.rls.base10;
+package com.rls.base10;
 
 import java.text.ParseException;
 import java.util.Date;

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.8.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/1电商基础架构/com.rls.learn/lib/commons-beanutils-1.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

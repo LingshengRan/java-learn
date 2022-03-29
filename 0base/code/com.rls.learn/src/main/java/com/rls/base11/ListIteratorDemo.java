@@ -1,4 +1,4 @@
-package main.java.com.rls.base11;
+package com.rls.base11;
 
 
 import java.util.ArrayList;

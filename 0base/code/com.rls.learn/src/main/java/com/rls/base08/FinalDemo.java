@@ -1,4 +1,4 @@
-package main.java.com.rls.base08;
+package com.rls.base08;
 
 /*
  * final：是一个关键字，表示最终的意思。可以用来修饰类，修饰变量，修饰方法。

@@ -1,4 +1,4 @@
-package main.java.com.rls.base09;
+package com.rls.base09;
 /*
  * StringBuilder:是一个可变的字符串类。
  *

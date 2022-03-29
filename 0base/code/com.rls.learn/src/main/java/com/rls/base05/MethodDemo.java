@@ -1,4 +1,4 @@
-package main.java.com.rls.base05;
+package com.rls.base05;
 /*
  * 方法：其实就是完成特定功能的代码块
  *

@@ -1,4 +1,4 @@
-package main.java.com.rls.base02;
+package com.rls.base02;
 /*
  * if语句有三种格式。
  *

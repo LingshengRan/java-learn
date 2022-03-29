@@ -1,4 +1,4 @@
-package main.java.com.rls.base06;
+package com.rls.base06;
 /*
  * 面向对象思想：
  * 		面向对象是基于面向过程的一种编程思想。

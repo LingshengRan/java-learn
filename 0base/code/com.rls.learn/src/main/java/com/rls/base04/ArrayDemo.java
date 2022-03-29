@@ -1,4 +1,4 @@
-package main.java.com.rls.base04;
+package com.rls.base04;
 
 /*
  * 数组：存储同一种数据类型的多个元素的容器。

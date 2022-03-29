@@ -1,4 +1,4 @@
-package main.java.com.rls.base08;
+package com.rls.base08;
 
 /*
  * 接口的特点：
