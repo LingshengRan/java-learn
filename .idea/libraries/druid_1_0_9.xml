@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="druid-1.0.9">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/1电商基础架构/com.rls.learn/lib/druid-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/1电商基础架构/databases/src/lib/druid-1.0.9.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
