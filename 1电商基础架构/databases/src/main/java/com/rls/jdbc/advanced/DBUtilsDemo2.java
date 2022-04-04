@@ -9,7 +9,6 @@ import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.ResultSetHandler;
 import org.junit.Test;
 
-import com.rls.jdbc.advanced.Account;
 import com.rls.jdbc.utils.JDBCUtils2;
 
 /**

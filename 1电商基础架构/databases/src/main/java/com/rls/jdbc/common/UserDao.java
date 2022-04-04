@@ -3,10 +3,8 @@ package com.rls.jdbc.common;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import java.sql.Statement;
 
 import com.rls.jdbc.utils.JDBCUtils;
-import org.junit.Test;
 
 /**
  * 用户的登录的功能

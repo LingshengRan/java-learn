@@ -1,6 +1,5 @@
 package com.rls.jdbc.utils;
 
-import com.rls.jdbc.utils.JDBCUtils;
 import org.junit.Test;
 
 import java.sql.Connection;

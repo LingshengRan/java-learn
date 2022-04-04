@@ -2,7 +2,6 @@ package com.rls.reflect;
 
 import java.util.HashMap;
 import java.util.Map;
-import com.rls.reflect.Person;
 
 /*
  * 自定义BeanUtils:
